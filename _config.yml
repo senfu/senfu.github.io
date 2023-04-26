@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Junyan Li"
-description              : ""
+description              :
 repository               : "senfu/senfu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,11 +23,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Junyan Li"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "First-year PhD student at UMass Amherst"
-  location         : "Beijing, China"
+  bio              : "PhD student at UMass Amherst"
+  location         : "Amherst, MA"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    :  # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "junyanli@umass.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : senfu # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :

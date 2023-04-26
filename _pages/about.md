@@ -19,11 +19,13 @@ redirect_from:
 
 I am currently a first-year PhD student in computer science at the University of Massachusetts Amherst, advised by Prof. Chuang Gan. Previously, I was an undergraduate at Zhejiang University and the University of Illinois Urbana-Champaign.
 
+My research interest lies in efficient machine learning, foundation models and multimodal reasoning.
+
 
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-- *2023.03* [ProxylessGaze](https://github.com/mit-han-lab/proxylessnas/tree/master/proxyless_gaze) is open-sourced. It is a gaze estimation demo including face detection, facial landmark detection and gaze estimation, running at a real-time on Raspberry Pi 4, Qualcomm GPU and Intel CPU.
+- *2023.03* [ProxylessGaze](https://github.com/mit-han-lab/proxylessnas/tree/master/proxyless_gaze) is publicly available. It is an open-source gaze estimation pipeline including face detection, facial landmark detection and gaze estimation, running at a real-time on Raspberry Pi 4, Qualcomm GPU and Intel CPU.
 
 # 📝 Publications 
 
@@ -34,7 +36,7 @@ I am currently a first-year PhD student in computer science at the University of
 
 Han Cai, **Junyan Li**, Muyan Hu, Chuang Gan, Song Han
 
-[**Project**](https://github.com/mit-han-lab/efficientvit) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**GitHub**](https://github.com/mit-han-lab/efficientvit) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - EfficientViT is a new family of vision models for efficient high-resolution vision, especially segmentation. The core building block of EfficientViT is a new lightweight multi-scale attention module that achieves global receptive field and multi-scale learning with only hardware-efficient operations.
 </div>
 </div>
@@ -42,6 +44,8 @@ Han Cai, **Junyan Li**, Muyan Hu, Chuang Gan, Song Han
 
 # 🎖 Honors and Awards
 - *2022.11* Zhejiang Provincial Scholarship
+- *2022.11* Zhejiang University Second Scholarship
+- *2020.11* Zhejiang University Second Scholarship
 
 # 📖 Educations
 - *2023.09 - (now)*, PhD, computer science, University of Massachusetts Amherst. 
