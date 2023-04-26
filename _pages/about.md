@@ -36,7 +36,7 @@ My research interest lies in efficient machine learning, foundation models and m
 
 Han Cai, **Junyan Li**, Muyan Hu, Chuang Gan, Song Han
 
-[**GitHub**](https://github.com/mit-han-lab/efficientvit) | [**Poster**](images/efficientvit/poster.png) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**GitHub** ![](https://img.shields.io/github/stars/mit-han-lab/efficientvit?style=social)](https://github.com/mit-han-lab/efficientvit) | [**Poster**](images/efficientvit/poster.png) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - EfficientViT is a new family of vision models for efficient high-resolution vision, especially segmentation. The core building block of EfficientViT is a new lightweight multi-scale attention module that achieves global receptive field and multi-scale learning with only hardware-efficient operations.
 </div>
 </div>
