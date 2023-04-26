@@ -29,14 +29,14 @@ My research interest lies in efficient machine learning, foundation models and m
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/efficientvit-poster.png' alt="efficientvit_poster" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/efficientvit/intro.png' alt="efficientvit_poster" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [EfficientViT: Lightweight Multi-Scale Attention for On-Device Semantic Segmentation](https://arxiv.org/pdf/2205.14756.pdf)
 
 Han Cai, **Junyan Li**, Muyan Hu, Chuang Gan, Song Han
 
-[**GitHub**](https://github.com/mit-han-lab/efficientvit) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**GitHub**](https://github.com/mit-han-lab/efficientvit) | [**Poster**](images/efficientvit/poster.png) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - EfficientViT is a new family of vision models for efficient high-resolution vision, especially segmentation. The core building block of EfficientViT is a new lightweight multi-scale attention module that achieves global receptive field and multi-scale learning with only hardware-efficient operations.
 </div>
 </div>
