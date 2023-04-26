@@ -29,7 +29,7 @@ My research interest lies in efficient machine learning, foundation models and m
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/efficientvit-poster.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/efficientvit-poster.png' alt="efficientvit_poster" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [EfficientViT: Lightweight Multi-Scale Attention for On-Device Semantic Segmentation](https://arxiv.org/pdf/2205.14756.pdf)
