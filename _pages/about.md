@@ -25,7 +25,7 @@ My research interest lies in efficient machine learning, foundation models and m
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-- *2023.03* [ProxylessGaze](https://github.com/mit-han-lab/proxylessnas/tree/master/proxyless_gaze) is publicly available. It is an open-source gaze estimation pipeline including face detection, facial landmark detection and gaze estimation, running at a real-time on Raspberry Pi 4, Qualcomm GPU and Intel CPU.
+- *2023.03* [ProxylessGaze](https://github.com/mit-han-lab/proxylessnas/tree/master/proxyless_gaze) is publicly available. It is an open-source gaze estimation pipeline including face detection, facial landmark detection and gaze estimation, running in real time on Raspberry Pi 4, Qualcomm GPU and Intel CPU.
 
 # 📝 Publications 
 
