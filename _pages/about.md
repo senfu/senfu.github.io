@@ -28,6 +28,21 @@ My research interest lies in multimodal foundation model and embodied AI.
 
 # 📝 Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/covlm/intro.png' alt="covlm_poster" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CoVLM: Composing Visual Entities and Relationships in Large Language Models Via Communicative Decoding
+](https://arxiv.org/pdf/2311.03354.pdf)
+
+**Junyan Li**, Delin Chen, Yining Hong, Zhenfang Chen, Peihao Chen, Yikang Shen, Chuang Gan
+
+[**GitHub** ![](https://img.shields.io/github/stars/UMass-Foundation-Model/CoVLM?style=social)](https://github.com/UMass-Foundation-Model/CoVLM) | [**Project Page**](https://vis-www.cs.umass.edu/CoVLM/)
+
+- CoVLM is specifically designed to guide the VLM to explicitly compose visual entities and relationships among the text and dynamically communicate with the vision encoder and detection network to achieve vision-language communicative decoding. It boosts the compositional reasoning ability of VLMs and achieve SoTA performance on various tasks involving compositional analysis.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV2023</div><img src='images/efficientvit/intro.png' alt="efficientvit_poster" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
