@@ -22,13 +22,14 @@ My research interest lies in multimodal foundation model and embodied AI.
 
 # 🔥 News
 
+- *2024.01* [CoVLM](https://arxiv.org/abs/2311.03354) is accepted by **ICLR2024**. Check our [Project Page](https://vis-www.cs.umass.edu/CoVLM/) and also [GitHub![img](https://img.shields.io/github/stars/UMass-Foundation-Model/CoVLM?style=social)](https://github.com/UMass-Foundation-Model/CoVLM).
 - *2023.07* [EfficientViT](https://arxiv.org/abs/2205.14756) is accepted by **ICCV2023**. Check it on [GitHub![img](https://img.shields.io/github/stars/mit-han-lab/efficientvit?style=social)](https://github.com/mit-han-lab/efficientvit).
 - *2023.06* [ToP](https://dl.acm.org/doi/abs/10.1145/3580305.3599284) is accepted by **KDD2023**. Check it on [GitHub![img](https://img.shields.io/github/stars/microsoft/Moonlit?style=social)](https://github.com/microsoft/Moonlit/tree/main/ToP).
 - *2023.03* [ProxylessGaze](https://github.com/mit-han-lab/proxylessnas/tree/master/proxyless_gaze) is publicly available as an application of [ProxylessNAS![img](https://img.shields.io/github/stars/mit-han-lab/proxylessnas?style=social)](https://github.com/mit-han-lab/proxylessnas). It is an open-source gaze estimation pipeline including face detection, facial landmark detection and gaze estimation, running in real time on Raspberry Pi 4, Qualcomm GPU and Intel CPU.
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/covlm/intro.png' alt="covlm_poster" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR2024</div><img src='images/covlm/intro.png' alt="covlm_poster" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CoVLM: Composing Visual Entities and Relationships in Large Language Models Via Communicative Decoding
