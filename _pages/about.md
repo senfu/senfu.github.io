@@ -22,12 +22,34 @@ My research interest lies in multimodal foundation model and embodied AI.
 
 # 🔥 News
 
+
+- *2024.08* [FlexAttention](https://arxiv.org/abs/2407.20228) is accepted by **ECCV2024**. Check our [Project Page](https://vis-www.cs.umass.edu/flexattention/) and also [GitHub![img](https://img.shields.io/github/stars/UMass-Foundation-Model/FlexAttention?style=social)](https://github.com/UMass-Foundation-Model/FlexAttention)
 - *2024.01* [CoVLM](https://arxiv.org/abs/2311.03354) is accepted by **ICLR2024**. Check our [Project Page](https://vis-www.cs.umass.edu/CoVLM/) and also [GitHub![img](https://img.shields.io/github/stars/UMass-Foundation-Model/CoVLM?style=social)](https://github.com/UMass-Foundation-Model/CoVLM).
 - *2023.07* [EfficientViT](https://arxiv.org/abs/2205.14756) is accepted by **ICCV2023**. Check it on [GitHub![img](https://img.shields.io/github/stars/mit-han-lab/efficientvit?style=social)](https://github.com/mit-han-lab/efficientvit).
 - *2023.06* [ToP](https://dl.acm.org/doi/abs/10.1145/3580305.3599284) is accepted by **KDD2023**. Check it on [GitHub![img](https://img.shields.io/github/stars/microsoft/Moonlit?style=social)](https://github.com/microsoft/Moonlit/tree/main/ToP).
 - *2023.03* [ProxylessGaze](https://github.com/mit-han-lab/proxylessnas/tree/master/proxyless_gaze) is publicly available as an application of [ProxylessNAS![img](https://img.shields.io/github/stars/mit-han-lab/proxylessnas?style=social)](https://github.com/mit-han-lab/proxylessnas). It is an open-source gaze estimation pipeline including face detection, facial landmark detection and gaze estimation, running in real time on Raspberry Pi 4, Qualcomm GPU and Intel CPU.
 
 # 📝 Publications
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV2024</div><img src='images/flexattention/intro.jpg' alt="covlm_poster" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[FlexAttention for Efficient High-Resolution Vision-Language Models](https://arxiv.org/pdf/2407.20228)
+
+**Junyan Li**, Delin Chen, Tianle Cai, Peihao Chen, Yining Hong, Zhenfang Chen, Yikang Shen, Chuang Gan
+
+[**GitHub** ![](https://img.shields.io/github/stars/UMass-Foundation-Model/FlexAttention?style=social)](https://github.com/UMass-Foundation-Model/FlexAttention) | [**Project Page**](https://vis-www.cs.umass.edu/flexattention/)
+
+- FlexAttention is a plug-and-play attention module that can enhance VLMs' ability to perceive details in high resolution image in an efficient way.
+
+</div>
+</div>
+
+
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR2024</div><img src='images/covlm/intro.png' alt="covlm_poster" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -88,6 +110,7 @@ Han Cai, **Junyan Li**, Muyan Hu, Chuang Gan, Song Han
 
 # 💻 Internships
 
+- *2024.06 - 2024.08*,  [Toyota Research Institute](https://www.tri.global/), Los Altos, USA
 - *2023.05 - 2023.08*, [NVIDIA](https://www.nvidia.com/en-us/), Shanghai, China.
 - *2022.08 - 2023.02*, [Microsoft Research Lab - Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), Beijing, China.
 - *2021.06 - 2021.08*, [Momenta](https://www.momenta.cn/), Beijing, China.
