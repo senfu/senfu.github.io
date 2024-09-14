@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a first-year PhD student in computer science at the University of Massachusetts Amherst, advised by Prof. Chuang Gan. Previously, I was an undergraduate at Zhejiang University and the University of Illinois Urbana-Champaign.
+I am currently a second-year MS/PhD student in computer science at the University of Massachusetts Amherst, working with Prof. Chuang Gan. Previously, I was an undergraduate at Zhejiang University and the University of Illinois Urbana-Champaign.
 
 My research interest lies in multimodal foundation model and embodied AI.
 
@@ -104,7 +104,7 @@ Han Cai, **Junyan Li**, Muyan Hu, Chuang Gan, Song Han
 
 # 📖 Educations
 
-- *2023.09 - (now)*, PhD, computer science, University of Massachusetts Amherst.
+- *2023.09 - (now)*, MS/PhD, computer science, University of Massachusetts Amherst.
 - *2019.09 - 2023.06*, Undergraduate, computer engineering, University of Illinois Urbana-Champaign.
 - *2019.09 - 2023.06*, Undergraduate, computer engineering, Zhejiang University.
 
