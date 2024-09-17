@@ -104,7 +104,7 @@ Han Cai, **Junyan Li**, Muyan Hu, Chuang Gan, Song Han
 
 # 📖 Educations
 
-- *2023.09 - (now)*, MS/PhD, computer science, University of Massachusetts Amherst.
+- *2023.09 - (now)*, PhD, computer science, University of Massachusetts Amherst.
 - *2019.09 - 2023.06*, Undergraduate, computer engineering, University of Illinois Urbana-Champaign.
 - *2019.09 - 2023.06*, Undergraduate, computer engineering, Zhejiang University.
 
