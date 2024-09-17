@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a second-year MS/PhD student in computer science at the University of Massachusetts Amherst, working with Prof. Chuang Gan. Previously, I was an undergraduate at Zhejiang University and the University of Illinois Urbana-Champaign.
+I am currently a second-year PhD student in computer science at the University of Massachusetts Amherst, working with Prof. Chuang Gan. Previously, I was an undergraduate at Zhejiang University and the University of Illinois Urbana-Champaign.
 
 My research interest lies in multimodal foundation model and embodied AI.
 
