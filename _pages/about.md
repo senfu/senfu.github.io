@@ -18,11 +18,11 @@ redirect_from:
 
 I am currently a second-year PhD student in computer science at the University of Massachusetts Amherst, working with Prof. Chuang Gan. Previously, I was an undergraduate at Zhejiang University and the University of Illinois Urbana-Champaign.
 
-My research interest lies in multimodal foundation model and embodied AI.
+My research interest lies in foundation models and its efficiency.
 
 # 🔥 News
 
-
+- *2025.05* [CommVQ]() is accepted by **ICML2025**.
 - *2024.08* [FlexAttention](https://arxiv.org/abs/2407.20228) is accepted by **ECCV2024**. Check our [Project Page](https://vis-www.cs.umass.edu/flexattention/) and also [GitHub![img](https://img.shields.io/github/stars/UMass-Foundation-Model/FlexAttention?style=social)](https://github.com/UMass-Foundation-Model/FlexAttention)
 - *2024.01* [CoVLM](https://arxiv.org/abs/2311.03354) is accepted by **ICLR2024**. Check our [Project Page](https://vis-www.cs.umass.edu/CoVLM/) and also [GitHub![img](https://img.shields.io/github/stars/UMass-Foundation-Model/CoVLM?style=social)](https://github.com/UMass-Foundation-Model/CoVLM).
 - *2023.07* [EfficientViT](https://arxiv.org/abs/2205.14756) is accepted by **ICCV2023**. Check it on [GitHub![img](https://img.shields.io/github/stars/mit-han-lab/efficientvit?style=social)](https://github.com/mit-han-lab/efficientvit).
@@ -110,6 +110,7 @@ Han Cai, **Junyan Li**, Muyan Hu, Chuang Gan, Song Han
 
 # 💻 Internships
 
+- *2025.06 - 2025.08*, [Apple Inc.](https://www.apple.com/), Seattle, USA
 - *2024.06 - 2024.08*,  [Toyota Research Institute](https://www.tri.global/), Los Altos, USA
 - *2023.05 - 2023.08*, [NVIDIA](https://www.nvidia.com/en-us/), Shanghai, China.
 - *2022.08 - 2023.02*, [Microsoft Research Lab - Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), Beijing, China.
